@@ -1,23 +1,43 @@
 # 👋 Hi, I'm Vikas Giri
 
-Aspiring Data Scientist with a passion for Python, data analytics, and SQL. I enjoy solving problems, working on data-driven projects, and contributing to open source.
+Aspiring Data Scientist · Python | Data Analytics | SQL
 
 ---
 
-## 🔭 What I'm working on
-- End-to-end Data Analytics project: analyzing e-commerce / sales data — I handle data ingestion (CSV/SQL), cleaning, exploratory analysis, feature engineering, and build visual dashboards. I am prototyping a simple forecasting model (time-series / gradient boosting) and preparing a reproducible notebook + README and a Plotly dashboard to present findings.
-- LeetCode practice — strengthening algorithm and problem-solving skills
-- Learning more about machine learning model deployment and MLOps
+[![Follow on GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?logo=github&logoColor=white)](https://github.com/Vikas-Giri) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Vikas-Giri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-vikasgiri)
+
+A motivated data enthusiast who transforms raw data into actionable insights. I enjoy building end-to-end data solutions — from cleaning and EDA to modeling and dashboards.
+
+---
+
+## 🔭 Current project — Sales Data Analytics & Forecasting
+I am currently building a Sales Data Analytics & Forecasting pipeline focused on helping small retailers understand historical performance and forecast short-term demand.
+
+What I'm doing:
+- Ingesting and cleaning multiple sales datasets (transactions, products, promotions)
+- Exploratory Data Analysis and interactive visualizations (Plotly, Seaborn)
+- Feature engineering (time features, rolling aggregates, promotion flags)
+- Time-series modeling and baseline forecasting (ARIMA, Prophet) and ML regressors
+- Building a lightweight dashboard (Streamlit / Dash) to visualize trends and forecasts
+- Packaging the pipeline for reproducibility and deployment (Docker, CI)
+
+This project helps demonstrate practical experience in ETL, EDA, forecasting, and deploying simple dashboards.
+
+---
 
 ## 🛠 Skills
-- Languages & Tools: Python, pandas, NumPy, SQL, Jupyter, Git
-- Data: Data cleaning, EDA, visualization (Matplotlib / Seaborn / Plotly), basic ML workflows (scikit-learn, XGBoost)
+- Languages & Tools: Python, pandas, NumPy, SQL, scikit-learn, matplotlib, seaborn, plotly, Git, Docker
+- Data: Data cleaning, EDA, visualization, time-series forecasting, feature engineering
 - Other: Linux basics, version control, problem solving (LeetCode)
 
+---
+
 ## 📂 Selected Projects
-- Ecommerce Sales Analysis — end-to-end analysis from raw sales CSVs to dashboard and basic sales forecasting (notebook + dashboard)
-- LeetCode Solutions — algorithms and data structures practice (organized by difficulty and topic)
-- (Add links to 2–3 repos you want to showcase or pin these repos to your profile)
+- Sales Data Analytics & Forecasting — end-to-end pipeline with forecasting and dashboard
+- LeetCode Solutions — algorithms and data structures practice
+- (Add links to your repositories here to showcase work)
+
+---
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/-vikasgiri
@@ -27,7 +47,7 @@ Aspiring Data Scientist with a passion for Python, data analytics, and SQL. I en
 
 ---
 
-## 🤝 Collaboration
-I'm always open to learning and collaborating on data projects, open-source contributions, or interview prep. Feel free to open an issue, create a PR, or drop me an email.
+## 🤝 Let's collaborate
+I'm open to contributing to data projects, open-source tools, and interview prep. Feel free to open an issue, reach out via email, or connect on LinkedIn.
 
-Thanks for visiting! 🚀
+Thanks for stopping by! 🚀
