@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Vikas Giri
 
+<img src="https://github.com/Vikas-Giri.png" alt="Vikas avatar" width="96" style="border-radius:50%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width="64">
+
 Aspiring Data Scientist · Python | Data Analytics | SQL
 
 ---
@@ -33,16 +35,16 @@ This project helps demonstrate practical experience in ETL, EDA, forecasting, an
 ---
 
 ## 📂 Selected Projects
-- Sales Data Analytics & Forecasting — end-to-end pipeline with forecasting and dashboard
-- LeetCode Solutions — algorithms and data structures practice
+- Sales Data Analytics & Forecasting — end-to-end pipeline with forecasting and dashboard (placeholder — replace with repo URL)
+- LeetCode Solutions — algorithms and data structures practice (placeholder — replace with repo URL)
 - (Add links to your repositories here to showcase work)
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/-vikasgiri
-- GitHub: https://github.com/Vikas-Giri
-- LeetCode: https://leetcode.com/Vikas-Giri/
+- LinkedIn: https://www.linkedin.com/in/-vikasgiri  
+- GitHub: https://github.com/Vikas-Giri  
+- LeetCode: https://leetcode.com/Vikas-Giri/  
 - Email: vikaspgiri2018@gmail.com
 
 ---
